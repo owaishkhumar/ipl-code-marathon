@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kNRuOyKq1kz4qvQ8VT/tEDx+z9cnqlbjTfv9gXa2CsU=",
+  "Source": "IplBackendApplication",
+  "BasePath": "_content/IplBackendApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

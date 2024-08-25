@@ -1,0 +1,6 @@
+@IplBackendApplication_HostAddress = http://localhost:5128
+
+GET {{IplBackendApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
